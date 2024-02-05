@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T23:44:45.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fWyfkdsIi82E3y6s2GcE" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T00:01:01.628Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XSduzbTDPRoUNKCrGTOu" version="23.1.1" type="github">
   <diagram name="Page-1" id="rWmZPqaUCYWLDMt-VI79">
     <mxGraphModel dx="1200" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,8 +80,14 @@
         <mxCell id="Qa7kfGR9Ww7JRhrdEGWG-19" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="475.5" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Qa7kfGR9Ww7JRhrdEGWG-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Everything branches off from the DEV branch but the actual development is been done on the feature or bug-fix branches.&lt;/font&gt;" style="text;html=1;strokeColor=#FFB570;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="635" y="501" width="248" height="89" as="geometry" />
+        <mxCell id="Qa7kfGR9Ww7JRhrdEGWG-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;All development stems from the DEV branch, while the actual coding takes place on dedicated feature or bug-fix branches.&lt;/font&gt;" style="text;html=1;strokeColor=#FFB570;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="635" y="505.5" width="295" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa7kfGR9Ww7JRhrdEGWG-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Upon successful execution of automated tests, the modifications are&amp;nbsp;merged into the main branch&lt;/font&gt;" style="text;html=1;strokeColor=#3399FF;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa7kfGR9Ww7JRhrdEGWG-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Upon successful integration of all changes without any merge conflicts, the deployment of the changes is finalized.&lt;/font&gt;" style="text;html=1;strokeColor=#00CC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="225" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
