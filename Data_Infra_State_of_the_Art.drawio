@@ -131,6 +131,9 @@
         <mxCell id="HJSzp3PwRER_vaFQBzzB-32" value="&lt;b&gt;DATA GOVERNANCE TOOL&lt;/b&gt;&lt;div&gt;&lt;i&gt;(Immuta, Collibra, Unity catalog, etc.)&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="585" width="206.95" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="HJSzp3PwRER_vaFQBzzB-33" value="&lt;b&gt;DATA WAREHOUSE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180.57" y="383" width="142.43" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
