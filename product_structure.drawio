@@ -76,6 +76,9 @@
         <mxCell id="64hvi0usrAPv1fW5hsBz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="64hvi0usrAPv1fW5hsBz-17" target="64hvi0usrAPv1fW5hsBz-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="64hvi0usrAPv1fW5hsBz-26" value="&lt;b&gt;Product_Market&lt;/b&gt;&lt;div&gt;or some Product aggregation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="350" y="255" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
