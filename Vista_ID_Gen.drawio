@@ -113,6 +113,9 @@
         <mxCell id="3lTf8zWU9LtMQArzml-N-40" value="&lt;b&gt;&lt;font style=&quot;color: rgb(174, 65, 50);&quot;&gt;d4&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="591" y="218" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3lTf8zWU9LtMQArzml-N-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legend&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;v1 ADF extracts data from Snowflake External Table.&lt;/li&gt;&lt;li&gt;v2 ADF performs checks and ingests data into VISTA for ID generation.&lt;/li&gt;&lt;li&gt;v3 ADF extracts data containing the generated ID from VISTA.&lt;/li&gt;&lt;li&gt;v4 ADF ingests extracted data from VISTA into VISTA_PRO schema in Snowflake.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="440" width="490" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
