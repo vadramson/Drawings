@@ -988,7 +988,7 @@
             <mxPoint x="1320" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrI2_J8rbHx_XgwuVhXt-498" parent="0" value="Inner designs - Dressing" />
+        <mxCell id="PrI2_J8rbHx_XgwuVhXt-498" parent="0" style="locked=1;" value="Inner designs - Dressing" />
         <mxCell id="PrI2_J8rbHx_XgwuVhXt-530" parent="PrI2_J8rbHx_XgwuVhXt-498" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bookcase;" value="" vertex="1">
           <mxGeometry height="30" width="115" x="125" y="366" as="geometry" />
         </mxCell>
@@ -1031,6 +1031,13 @@
         </mxCell>
         <mxCell id="PrI2_J8rbHx_XgwuVhXt-529" parent="PrI2_J8rbHx_XgwuVhXt-524" style="shape=ellipse;shadow=0;html=1;" value="" vertex="1">
           <mxGeometry height="78.57142857142857" width="78.57142857142857" x="15.714285714285714" y="15.714285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="PrI2_J8rbHx_XgwuVhXt-538" parent="0" value="Opennings" />
+        <mxCell id="PrI2_J8rbHx_XgwuVhXt-539" parent="PrI2_J8rbHx_XgwuVhXt-538" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="85" width="80" x="519" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="PrI2_J8rbHx_XgwuVhXt-540" parent="PrI2_J8rbHx_XgwuVhXt-538" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=0;" value="" vertex="1">
+          <mxGeometry height="85" width="80" x="518" y="639" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
