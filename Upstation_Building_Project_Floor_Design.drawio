@@ -1076,6 +1076,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="52Hnet5m4UOSrRVxKkr8-22" parent="0" value="Separations - Bath room" />
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-23" parent="52Hnet5m4UOSrRVxKkr8-22" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="-770" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-24" parent="52Hnet5m4UOSrRVxKkr8-22" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="44.12" width="41.53" x="282.91" y="470.91" as="geometry" />
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-25" parent="52Hnet5m4UOSrRVxKkr8-22" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="48" width="40" x="131" y="467.03000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-26" parent="52Hnet5m4UOSrRVxKkr8-22" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.shower2;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="219.91000000000003" y="401.90999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-27" parent="52Hnet5m4UOSrRVxKkr8-22" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_1;" value="" vertex="1">
+          <mxGeometry height="35" width="40" x="134" y="399.90999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-28" edge="1" parent="52Hnet5m4UOSrRVxKkr8-22" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="470" as="sourcePoint" />
+            <mxPoint x="282.90999999999997" y="470.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-29" parent="52Hnet5m4UOSrRVxKkr8-22" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="46.16" width="43.44" x="283.55" y="519.89" as="geometry" />
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-30" edge="1" parent="52Hnet5m4UOSrRVxKkr8-22" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="208" y="566" as="sourcePoint" />
+            <mxPoint x="280.90999999999997" y="566.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-31" parent="52Hnet5m4UOSrRVxKkr8-22" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;rotation=0;" value="" vertex="1">
+          <mxGeometry height="48" width="40" x="131" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-32" parent="52Hnet5m4UOSrRVxKkr8-22" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_1;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="35" width="40" x="134" y="601" as="geometry" />
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-33" parent="52Hnet5m4UOSrRVxKkr8-22" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.shower2;rotation=90;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="218.91" y="577" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
