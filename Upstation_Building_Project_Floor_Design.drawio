@@ -1069,6 +1069,13 @@
         <mxCell id="52Hnet5m4UOSrRVxKkr8-14" parent="PrI2_J8rbHx_XgwuVhXt-538" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" value="" vertex="1">
           <mxGeometry height="60.34" width="56.8" x="1763.7" y="338.9999999999999" as="geometry" />
         </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-21" edge="1" parent="PrI2_J8rbHx_XgwuVhXt-538" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1490" y="550.28" as="sourcePoint" />
+            <mxPoint x="1550" y="550.28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Hnet5m4UOSrRVxKkr8-22" parent="0" value="Separations - Bath room" />
       </root>
     </mxGraphModel>
   </diagram>
