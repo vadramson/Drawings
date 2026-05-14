@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-29" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;wallThickness=2;rotation=90;" value="" vertex="1">
+          <mxGeometry height="235" width="10" x="677.5" y="242.5" as="geometry" />
+        </mxCell>
         <mxCell id="zLbq9jl6zK0pD6LLafCy-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="40" y="80" as="sourcePoint" />
@@ -16,50 +19,10 @@
             <mxPoint x="800" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="400" width="240" x="560" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="480" y="400" as="sourcePoint" />
-            <mxPoint x="480" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="420" as="sourcePoint" />
-            <mxPoint x="240" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="480" />
-            </Array>
-            <mxPoint x="320" y="480" as="sourcePoint" />
-            <mxPoint x="560" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="710" y="360" />
-            </Array>
-            <mxPoint x="560" y="360" as="sourcePoint" />
-            <mxPoint x="800" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zLbq9jl6zK0pD6LLafCy-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="321" y="540" as="sourcePoint" />
             <mxPoint x="321" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points" />
-            <mxPoint x="480" y="279.5" as="sourcePoint" />
-            <mxPoint x="560" y="279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zLbq9jl6zK0pD6LLafCy-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;" value="">
@@ -87,17 +50,48 @@
         <mxCell id="zLbq9jl6zK0pD6LLafCy-17" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=0;" value="" vertex="1">
           <mxGeometry height="70" width="65.88" x="252" y="419" as="geometry" />
         </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-18" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="64.69" width="60.88" x="561.4" y="294.71" as="geometry" />
-        </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-19" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=0;" value="" vertex="1">
-          <mxGeometry height="60" width="56.46" x="482" y="279" as="geometry" />
-        </mxCell>
         <mxCell id="zLbq9jl6zK0pD6LLafCy-20" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-180;" value="" vertex="1">
           <mxGeometry height="64.01" width="60.24" x="416.65" y="96.68" as="geometry" />
         </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-28" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;strokeWidth=1;wallThickness=2;" value="" vertex="1">
+          <mxGeometry height="400" width="240.6" x="559.4" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-18" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="64.69" width="60.88" x="561.4" y="294.71" as="geometry" />
+        </mxCell>
         <mxCell id="zLbq9jl6zK0pD6LLafCy-27" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="60.6" width="57.03" x="561.72" y="359.52" as="geometry" />
+          <mxGeometry height="60.6" width="57.03" x="560.72" y="359.52" as="geometry" />
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" target="zLbq9jl6zK0pD6LLafCy-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="320" y="480" as="sourcePoint" />
+            <mxPoint x="560" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-31" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;wallThickness=2;rotation=90;" value="" vertex="1">
+          <mxGeometry height="238.48" width="10" x="434.03" y="359.78" as="geometry" />
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" target="zLbq9jl6zK0pD6LLafCy-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="400" as="sourcePoint" />
+            <mxPoint x="480" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-33" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;wallThickness=2;" value="" vertex="1">
+          <mxGeometry height="320" width="10" x="473" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-35" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;wallThickness=2;" value="" vertex="1">
+          <mxGeometry height="339" width="10" x="236" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-38" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;wallThickness=2;" value="" vertex="1">
+          <mxGeometry height="10" width="81.4" x="480" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-39" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;wallThickness=2;" value="" vertex="1">
+          <mxGeometry height="10" width="81.4" x="479.32" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="zLbq9jl6zK0pD6LLafCy-19" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=0;" value="" vertex="1">
+          <mxGeometry height="60" width="56.46" x="482" y="278" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
