@@ -7,12 +7,6 @@
         <mxCell id="zLbq9jl6zK0pD6LLafCy-29" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;wallThickness=2;rotation=90;" value="" vertex="1">
           <mxGeometry height="235" width="10" x="677.5" y="242.5" as="geometry" />
         </mxCell>
-        <mxCell id="zLbq9jl6zK0pD6LLafCy-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="80" as="sourcePoint" />
-            <mxPoint x="800" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zLbq9jl6zK0pD6LLafCy-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="800" y="80" as="sourcePoint" />
@@ -103,10 +97,10 @@
           <mxGeometry height="196.88" width="10" x="134.04" y="62.04" as="geometry" />
         </mxCell>
         <mxCell id="zLbq9jl6zK0pD6LLafCy-45" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;wallThickness=2;rotation=90;" value="" vertex="1">
-          <mxGeometry height="274.71" width="10" x="252.355" y="-56.355" as="geometry" />
+          <mxGeometry height="462.18" width="10" x="158.62" y="-150.09" as="geometry" />
         </mxCell>
         <mxCell id="zLbq9jl6zK0pD6LLafCy-46" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;wallThickness=2;" value="" vertex="1">
-          <mxGeometry height="320" width="10" x="-20" y="137" as="geometry" />
+          <mxGeometry height="320" width="10" x="33" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
